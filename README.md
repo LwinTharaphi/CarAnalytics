@@ -68,7 +68,7 @@ Here are some screenshots showcasing the **Car Analytics Dashboard** application
 - [Bar chart](#bar) <br/>
 This screenshot displays the main dashboard, including various charts and data visualizations.
 
-## ![Table](../demo_images/dashboard%20table.png)
+## ![Table](https://ibb.co/7knNZ9s)
 
 Click the view button to see and highlight the cars. <br/>
 This is the Pie chart.
