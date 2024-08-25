@@ -72,7 +72,7 @@ This screenshot displays the main dashboard, including various charts and data v
 
 Click the view button to see and highlight the cars. <br/>
 This is the Pie chart.
-## ![Pie](../demo_images/dashboard%20pie.png)
+## ![Pie](https://i.ibb.co/VVJcCt4/dashboard-pie.png)
 
 This is the Bar chart.
 ## ![bar](../demo_images/dashboard%20bar.png)
