@@ -78,30 +78,33 @@ Here are some screenshots showcasing the **Car Analytics Dashboard** application
 - [Pie chart](#pie)   
 - [Bar chart](#bar) 
 
-This screenshot displays the main dashboard, including various charts and data visualizations.
+This screenshot displays the main dashboard, including various charts and data visualizations.<br/>
+
+There is a drop-down menu where users can select the model of each respective car brand. The car price and number of cars available will dynamically change based on the selected model. Additionally, there is a clickable button that allows users to view and add the selected car to their highlighted page.
 
 ## ![Table](https://i.ibb.co/hWrbL8H/dashboard-table.png)
 
-Click the view button to see and highlight the cars. <br/>
 This is the Pie chart on the dashboard.
+
 ## ![Pie](https://i.ibb.co/VVJcCt4/dashboard-pie.png)
 
 This is the Bar chart on the dashboard.
+
 ## ![bar](https://i.ibb.co/hBFftRk/dashboard-bar.png)
 
 ### Car Details and add cars to the highlighted page
-After clicking the view button on the dashboard car table, users can see the car details page where users can see the car models (in details) and highlight the cars.
+After clicking the view button on the dashboard car table, users are redirected to the car details page. This page provides in-depth information about the specific car model. Users also have the option to highlight the car, adding it to their personalized list.
 
 ![car details](https://i.ibb.co/XY7kKwc/car-details.png)
 
 ### Highlighted Cars
-This page shows the highlighted cars feature, where users can add or remove cars from their highlighted list.
+This page shows the highlighted cars feature, where users can add or remove cars from their personalized list.
 
  ![highlighted cars](https://i.ibb.co/ZzNNJ5v/hightlighted-cars.png)
 
 
 ### Confirm removal
-This is the confirm removal pop up when users want to remove the cars from the highlighted cars list.
+This is a confirmation pop-up that appears when users attempt to remove cars from their highlighted cars list. Users have the option to click the "Cancel" button to prevent the removal.
 
 ![confirm removal](https://i.ibb.co/pzGfF82/confirm-removal.jpg)
 
