@@ -44,19 +44,30 @@ To use the **Car Analytics Dashboard** application, follow these steps:
    Start by cloning the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/LwinTharaphi/LwinTharaphi.github.io
+   git clone https://github.com/LwinTharaphi/CarAnalytics.git
    ```
    Go to the project repository
    ```bash
-   cd car-analytics
+   cd CarAnalytics
    ```
    Install Dependencies
    ```bash
+   pnpm install
    npm install chart.js
    npm install react-bootstrap bootstrap
    npm install primereact
    npm install react-router-dom
    ```
+   Run Locally
+   ```bash
+   pnpm run dev
+   ```
+   Build Production
+   ```bash
+   pnpm run build
+   ```
+
+
 
 ## Demo
 
@@ -65,7 +76,8 @@ Here are some screenshots showcasing the **Car Analytics Dashboard** application
 ### Dashboard View
 - [Table](#table)  
 - [Pie chart](#pie)   
-- [Bar chart](#bar) <br/>
+- [Bar chart](#bar) 
+
 This screenshot displays the main dashboard, including various charts and data visualizations.
 
 ## ![Table](https://i.ibb.co/hWrbL8H/dashboard-table.png)
@@ -79,15 +91,18 @@ This is the Bar chart on the dashboard.
 
 ### Car Details and add cars to the highlighted page
 After clicking the view button on the dashboard car table, users can see the car details page where users can see the car models (in details) and highlight the cars.
+
 ![car details](https://i.ibb.co/XY7kKwc/car-details.png)
 
 ### Highlighted Cars
 This page shows the highlighted cars feature, where users can add or remove cars from their highlighted list.
+
  ![highlighted cars](https://i.ibb.co/ZzNNJ5v/hightlighted-cars.png)
 
 
 ### Confirm removal
 This is the confirm removal pop up when users want to remove the cars from the highlighted cars list.
+
 ![confirm removal](https://i.ibb.co/pzGfF82/confirm-removal.jpg)
 
 ---
