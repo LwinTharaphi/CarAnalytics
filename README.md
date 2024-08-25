@@ -71,40 +71,26 @@ This screenshot displays the main dashboard, including various charts and data v
 ## ![Table](https://i.ibb.co/hWrbL8H/dashboard-table.png)
 
 Click the view button to see and highlight the cars. <br/>
-This is the Pie chart.
+This is the Pie chart on the dashboard.
 ## ![Pie](https://i.ibb.co/VVJcCt4/dashboard-pie.png)
 
-This is the Bar chart.
-## ![bar](../demo_images/dashboard%20bar.png)
+This is the Bar chart on the dashboard.
+## ![bar](https://i.ibb.co/hBFftRk/dashboard-bar.png)
+
+### Car Details and add cars to the highlighted page
+After clicking the view button on the dashboard car table, users can see the car details page where users can see the car models (in details) and highlight the cars.
+![car details](https://i.ibb.co/XY7kKwc/car-details.png)
+
 ### Highlighted Cars
-
-![Highlighted Cars](../demo_images/car%20details.png)
-
-This screenshot shows the highlighted cars feature, where users can add or remove cars from their highlighted list.
-
-### Filter Data
-
-![Filter Data](../demo_images/dashboard%20pie.png)
-
-This screenshot demonstrates how users can filter car data by model and brand using the dropdown menus.
-
-### View Cars
-
-![Responsive Design](../demo_images/car%20details.png)
-
-### Add cars to the highlight page
+This page shows the highlighted cars feature, where users can add or remove cars from their highlighted list.
+ ![highlighted cars](https://i.ibb.co/ZzNNJ5v/hightlighted-cars.png)
 
 
-This screenshot highlights the responsive design of the application, ensuring it looks great on different devices.
+### Confirm removal
+This is the confirm removal pop up when users want to remove the cars from the highlighted cars list.
+![confirm removal](https://i.ibb.co/pzGfF82/confirm-removal.jpg)
 
 ---
-
-You can also view a live demo of the application at [Live Demo](https://your-live-demo-url.com) (if applicable).
-
-
-   
-
-
 
 
 ## Team members
